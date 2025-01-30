@@ -39,22 +39,22 @@ avg_bid_price = options_df.groupby("Type")["Bid Price"].mean()
 avg_ask_price = options_df.groupby("Type")["Ask Price"].mean()
 
 # Visualization - Strike Price Distribution
-# plt.figure(figsize=(10, 5))
-# options_df["Strike"].hist(bins=20, color="orange", edgecolor="black")
-# plt.xlabel("Strike Price")
-# plt.ylabel("Frequency")
-# plt.title("Distribution of Strike Prices")
-# plt.show()
+plt.figure(figsize=(10, 5))
+options_df["Strike"].hist(bins=20, color="orange", edgecolor="black")
+plt.xlabel("Strike Price")
+plt.ylabel("Frequency")
+plt.title("Distribution of Strike Prices")
+plt.show()
 
 # Visualization - Most Liquid Options
-# plt.figure(figsize=(10, 5))
-# options_df.sort_values(by="Total Orders", ascending=False).head(10).plot(
-#     x="Strike", y="Total Orders", kind="bar", legend=False, color="skyblue")
-# plt.xlabel("Strike Price")
-# plt.ylabel("Total Orders")
-# plt.title("Top 10 Most Liquid Options")
-# plt.xticks(rotation=45)
-# plt.show()
+plt.figure(figsize=(10, 5))
+options_df.sort_values(by="Total Orders", ascending=False).head(10).plot(
+    x="Strike", y="Total Orders", kind="bar", legend=False, color="skyblue")
+plt.xlabel("Strike Price")
+plt.ylabel("Total Orders")
+plt.title("Top 10 Most Liquid Options")
+plt.xticks(rotation=45)
+plt.show()
 
 # Print Results
 print("Highest Strike Option:\n", highest_strike)
