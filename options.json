@@ -1,0 +1,405 @@
+{
+  "expiry": "2027-01-15",
+  "options": {
+    "calls": [
+      {
+        "strike": 2.5,
+        "bid": {
+          "price": 36.0,
+          "orders": 867
+        },
+        "ask": {
+          "price": 37.85,
+          "orders": 369
+        }
+      },
+      {
+        "strike": 5.0,
+        "bid": {
+          "price": 32.85,
+          "orders": 536
+        },
+        "ask": {
+          "price": 36.15,
+          "orders": 443
+        }
+      },
+      {
+        "strike": 7.5,
+        "bid": {
+          "price": 32.45,
+          "orders": 309
+        },
+        "ask": {
+          "price": 34.05,
+          "orders": 63
+        }
+      },
+      {
+        "strike": 10.0,
+        "bid": {
+          "price": 30.85,
+          "orders": 1515
+        },
+        "ask": {
+          "price": 32.5,
+          "orders": 845
+        }
+      },
+      {
+        "strike": 12.5,
+        "bid": {
+          "price": 29.95,
+          "orders": 963
+        },
+        "ask": {
+          "price": 31.1,
+          "orders": 368
+        }
+      },
+      {
+        "strike": 15.0,
+        "bid": {
+          "price": 28.9,
+          "orders": 267
+        },
+        "ask": {
+          "price": 29.95,
+          "orders": 254
+        }
+      },
+      {
+        "strike": 17.5,
+        "bid": {
+          "price": 27.15,
+          "orders": 1100
+        },
+        "ask": {
+          "price": 29.7,
+          "orders": 748
+        }
+      },
+      {
+        "strike": 20.0,
+        "bid": {
+          "price": 26.7,
+          "orders": 323
+        },
+        "ask": {
+          "price": 27.75,
+          "orders": 108
+        }
+      },
+      {
+        "strike": 22.5,
+        "bid": {
+          "price": 25.9,
+          "orders": 160
+        },
+        "ask": {
+          "price": 26.65,
+          "orders": 52
+        }
+      },
+      {
+        "strike": 25.0,
+        "bid": {
+          "price": 24.95,
+          "orders": 448
+        },
+        "ask": {
+          "price": 25.95,
+          "orders": 198
+        }
+      },
+      {
+        "strike": 30.0,
+        "bid": {
+          "price": 23.6,
+          "orders": 66
+        },
+        "ask": {
+          "price": 24.55,
+          "orders": 343
+        }
+      },
+      {
+        "strike": 35.0,
+        "bid": {
+          "price": 21.7,
+          "orders": 1252
+        },
+        "ask": {
+          "price": 22.9,
+          "orders": 24
+        }
+      },
+      {
+        "strike": 40.0,
+        "bid": {
+          "price": 20.9,
+          "orders": 155
+        },
+        "ask": {
+          "price": 22.25,
+          "orders": 1068
+        }
+      },
+      {
+        "strike": 45.0,
+        "bid": {
+          "price": 19.8,
+          "orders": 140
+        },
+        "ask": {
+          "price": 21.05,
+          "orders": 789
+        }
+      },
+      {
+        "strike": 50.0,
+        "bid": {
+          "price": 18.85,
+          "orders": 131
+        },
+        "ask": {
+          "price": 20.15,
+          "orders": 824
+        }
+      },
+      {
+        "strike": 55.0,
+        "bid": {
+          "price": 17.9,
+          "orders": 127
+        },
+        "ask": {
+          "price": 18.8,
+          "orders": 11
+        }
+      },
+      {
+        "strike": 60.0,
+        "bid": {
+          "price": 17.05,
+          "orders": 72
+        },
+        "ask": {
+          "price": 18.5,
+          "orders": 842
+        }
+      },
+      {
+        "strike": 65.0,
+        "bid": {
+          "price": 16.5,
+          "orders": 35
+        },
+        "ask": {
+          "price": 17.6,
+          "orders": 312
+        }
+      }
+    ],
+    "puts": [
+      {
+        "strike": 2.5,
+        "bid": {
+          "price": 0.2,
+          "orders": 621
+        },
+        "ask": {
+          "price": 0.36,
+          "orders": 175
+        }
+      },
+      {
+        "strike": 5.0,
+        "bid": {
+          "price": 0.61,
+          "orders": 478
+        },
+        "ask": {
+          "price": 1.05,
+          "orders": 10
+        }
+      },
+      {
+        "strike": 7.5,
+        "bid": {
+          "price": 1.26,
+          "orders": 1205
+        },
+        "ask": {
+          "price": 1.96,
+          "orders": 1572
+        }
+      },
+      {
+        "strike": 10.0,
+        "bid": {
+          "price": 2.2,
+          "orders": 508
+        },
+        "ask": {
+          "price": 2.88,
+          "orders": 877
+        }
+      },
+      {
+        "strike": 12.5,
+        "bid": {
+          "price": 3.4,
+          "orders": 9
+        },
+        "ask": {
+          "price": 3.6,
+          "orders": 40
+        }
+      },
+      {
+        "strike": 15.0,
+        "bid": {
+          "price": 4.55,
+          "orders": 8
+        },
+        "ask": {
+          "price": 4.95,
+          "orders": 391
+        }
+      },
+      {
+        "strike": 17.5,
+        "bid": {
+          "price": 5.6,
+          "orders": 302
+        },
+        "ask": {
+          "price": 6.05,
+          "orders": 15
+        }
+      },
+      {
+        "strike": 20.0,
+        "bid": {
+          "price": 7.15,
+          "orders": 16
+        },
+        "ask": {
+          "price": 7.45,
+          "orders": 36
+        }
+      },
+      {
+        "strike": 22.5,
+        "bid": {
+          "price": 8.5,
+          "orders": 139
+        },
+        "ask": {
+          "price": 8.9,
+          "orders": 31
+        }
+      },
+      {
+        "strike": 25.0,
+        "bid": {
+          "price": 9.45,
+          "orders": 1387
+        },
+        "ask": {
+          "price": 10.45,
+          "orders": 46
+        }
+      },
+      {
+        "strike": 30.0,
+        "bid": {
+          "price": 12.65,
+          "orders": 1168
+        },
+        "ask": {
+          "price": 14.0,
+          "orders": 548
+        }
+      },
+      {
+        "strike": 35.0,
+        "bid": {
+          "price": 16.55,
+          "orders": 48
+        },
+        "ask": {
+          "price": 17.7,
+          "orders": 917
+        }
+      },
+      {
+        "strike": 40.0,
+        "bid": {
+          "price": 20.0,
+          "orders": 78
+        },
+        "ask": {
+          "price": 21.65,
+          "orders": 1572
+        }
+      },
+      {
+        "strike": 45.0,
+        "bid": {
+          "price": 23.4,
+          "orders": 109
+        },
+        "ask": {
+          "price": 24.55,
+          "orders": 94
+        }
+      },
+      {
+        "strike": 50.0,
+        "bid": {
+          "price": 26.85,
+          "orders": 416
+        },
+        "ask": {
+          "price": 29.25,
+          "orders": 540
+        }
+      },
+      {
+        "strike": 55.0,
+        "bid": {
+          "price": 30.7,
+          "orders": 350
+        },
+        "ask": {
+          "price": 32.3,
+          "orders": 121
+        }
+      },
+      {
+        "strike": 60.0,
+        "bid": {
+          "price": 34.75,
+          "orders": 292
+        },
+        "ask": {
+          "price": 36.15,
+          "orders": 61
+        }
+      },
+      {
+        "strike": 65.0,
+        "bid": {
+          "price": 38.95,
+          "orders": 171
+        },
+        "ask": {
+          "price": 40.3,
+          "orders": 75
+        }
+      }
+    ]
+  }
+}
